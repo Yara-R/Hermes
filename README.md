@@ -6,7 +6,7 @@ Versão do pyton: 3.10.7
 
 VSCode utilizado para edição do código
 
-Para utilizar o projeto é necessário ter as seguintes bibliotecas:
+# Para utilizar o projeto é necessário ter as seguintes bibliotecas:
 
 Random, Time, Tabulate, DateTime, Os
 
@@ -16,7 +16,8 @@ Demonstração Hermes: https://drive.google.com/file/d/1obEnH0a5-JnEFZd3rSrb-r5a
 
 OBS: o login (apto) e a senha são, respectivamente: admin, admin
 
-Equipe de projeto:
+# Equipe de projeto:
+
 Ciência da computação: Lucas Gabriel, Yara Rodrigues, Adriana Lucia, Mell Bryner, Henrique Roma, João Pedro Batista
 
 Design - Rodrigo Fialho, Camila Chagas, Myckel Vitor
